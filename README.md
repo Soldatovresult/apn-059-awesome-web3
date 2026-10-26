@@ -187,6 +187,7 @@ These guides provide a more structured approach to learning.
 - DeFi Risk Tools & Resources - https://github.com/defi-defense-dao/defi-risk-tools-list#developer-tools 
 - Intro to DeFi – How to navigate the Degen world - https://www.useweb3.xyz/guides/intro-to-defi 
 - Learn Solidity - https://www.freecodecamp.org/news/learn-solidity-handbook/ 
+- Local agent payment walkthrough: prepare, approve and inspect a Base USDC transfer (APN, macOS Apple Silicon) - https://github.com/nuanu-ai/agent-payment-node#first-journey-a-direct-base-usdc-transfer 
 - Road to ZK - https://plum-lightning-36c.notion.site/Road-to-ZK-2e85993b316b4c7c831bcdc866005e1b 
 - 4 ways to reduce⛽️Gas Fee paid to Ethereum blockchain. - https://0chandan.medium.com/3-ways-to-reduce-%EF%B8%8Fgas-fee-paid-to-ethereum-blockchain-a9d03d0cb82f 
 - What is Web3 - https://www.useweb3.xyz/guides/what-is-web3 
